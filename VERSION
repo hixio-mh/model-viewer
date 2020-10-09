@@ -1,0 +1,15 @@
+commit a2f27854545d2edb62b5f9d96096e57830c24a89
+Author: Christopher George <chrisgeorge@google.com>
+Date:   Fri Oct 9 12:40:29 2020 -1000
+
+    remove parenthesis from sidebar methods (#1623)
+    
+    * remove parenthesis from sidebar methods
+    
+    * added attribute span to methods
+    
+    * remove span from events and observers
+    
+    * remove span from non model viewer elements
+    
+    * language update
