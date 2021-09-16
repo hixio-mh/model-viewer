@@ -38,13 +38,13 @@
     "@typescript-eslint/eslint-plugin": "^4.3.0",
     "@typescript-eslint/parser": "^4.3.0",
     "clang-format": "^1.4.0",
-    "eslint": "^7.7.0",
+    "eslint": "^7.16.0",
     "eslint-config-google": "^0.14.0",
     "eslint-plugin-mocha": "^8.0.0",
     "eslint-plugin-wc": "^1.2.0",
     "http-server": "^0.12.1",
     "husky": "^4.2.1",
-    "lerna": "^3.20.2",
+    "lerna": "^4.0.0",
     "typescript": "4.0.3"
   }
 }
